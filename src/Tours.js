@@ -1,6 +1,5 @@
 import React from "react";
 import Tour from "./Tour";
-import Navbar from "react-bootstrap/Navbar";
 
 const Tours = ({ tours, removeTour }) => {
   return (
